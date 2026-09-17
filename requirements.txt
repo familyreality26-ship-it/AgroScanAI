@@ -1,0 +1,16 @@
+# AgroScan AI — Python Dependencies
+# Lightweight core runs on standard Python 3.8+ with zero heavy requirements
+
+# Core GUI & Utilities (Standard library handles sqlite3, tkinter, json)
+Pillow>=9.5.0
+numpy>=1.22.0
+
+# Optional Machine Learning & Model Training
+# (The application operates in demonstration mode if tensorflow is absent)
+tensorflow>=2.12.0; platform_machine != "arm64"
+scikit-learn>=1.2.0
+
+# Optional Accessibility Voice & PDF Generation
+# (Gracefully degrades if not installed)
+pyttsx3>=2.90
+reportlab>=3.6.12

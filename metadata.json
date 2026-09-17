@@ -1,0 +1,6 @@
+{
+  "name": "AgroScan AI",
+  "description": "Smart Crop Health & Disease Detection system for smallholder agriculture in Southern Africa",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

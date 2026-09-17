@@ -1,0 +1,106 @@
+[
+  {
+    "id": 0,
+    "class_name": "Tomato___Late_blight",
+    "display_name": "Late Blight (Tomato)",
+    "crop": "Tomato",
+    "condition": "Late Blight",
+    "is_healthy": false
+  },
+  {
+    "id": 1,
+    "class_name": "Tomato___Early_blight",
+    "display_name": "Early Blight (Tomato)",
+    "crop": "Tomato",
+    "condition": "Early Blight",
+    "is_healthy": false
+  },
+  {
+    "id": 2,
+    "class_name": "Tomato___healthy",
+    "display_name": "Healthy Crop Leaf",
+    "crop": "Tomato",
+    "condition": "Healthy Leaf",
+    "is_healthy": true
+  },
+  {
+    "id": 3,
+    "class_name": "Maize___Northern_Leaf_Blight",
+    "display_name": "Northern Leaf Blight (Maize)",
+    "crop": "Maize",
+    "condition": "Northern Leaf Blight",
+    "is_healthy": false
+  },
+  {
+    "id": 4,
+    "class_name": "Maize___Common_Rust",
+    "display_name": "Maize Common Rust",
+    "crop": "Maize",
+    "condition": "Common Rust",
+    "is_healthy": false
+  },
+  {
+    "id": 5,
+    "class_name": "Maize___Fall_Armyworm_Damage",
+    "display_name": "Fall Armyworm Damage (Maize)",
+    "crop": "Maize",
+    "condition": "Fall Armyworm Damage",
+    "is_healthy": false
+  },
+  {
+    "id": 6,
+    "class_name": "Maize___healthy",
+    "display_name": "Healthy Crop Leaf",
+    "crop": "Maize",
+    "condition": "Healthy Leaf",
+    "is_healthy": true
+  },
+  {
+    "id": 7,
+    "class_name": "Potato___Late_blight",
+    "display_name": "Late Blight (Potato)",
+    "crop": "Potato",
+    "condition": "Late Blight",
+    "is_healthy": false
+  },
+  {
+    "id": 8,
+    "class_name": "Potato___healthy",
+    "display_name": "Healthy Crop Leaf",
+    "crop": "Potato",
+    "condition": "Healthy Leaf",
+    "is_healthy": true
+  },
+  {
+    "id": 9,
+    "class_name": "Beans___Rust_and_Mosaic",
+    "display_name": "Bean Common Mosaic / Rust (Beans)",
+    "crop": "Beans",
+    "condition": "Rust / Mosaic",
+    "is_healthy": false
+  },
+  {
+    "id": 10,
+    "class_name": "Beans___healthy",
+    "display_name": "Healthy Crop Leaf",
+    "crop": "Beans",
+    "condition": "Healthy Leaf",
+    "is_healthy": true
+  },
+  {
+    "id": 11,
+    "class_name": "Tobacco___Mosaic_Virus",
+    "display_name": "Tobacco Mosaic Virus (Tobacco)",
+    "crop": "Tobacco",
+    "condition": "Tobacco Mosaic Virus",
+    "is_healthy": false
+  },
+  {
+    "id": 12,
+    "class_name": "Tobacco___healthy",
+    "display_name": "Healthy Crop Leaf",
+    "crop": "Tobacco",
+    "condition": "Healthy Leaf",
+    "is_healthy": true
+  }
+]
